@@ -85,3 +85,7 @@ If your class have People with same name, Use CTRL + F to check them!
 
 Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of classes.
 The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom. 
+
+## ERROR!
+
+If you encounter any errors, please contact "luckyrookie@Khu.ac.kr". I can help you whenever you want:)
