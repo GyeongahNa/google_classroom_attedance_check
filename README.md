@@ -50,37 +50,35 @@ Execute "googleclassroom_attendance_check file" in dist file". Then you will be 
 
 ## INFORMATIONS YOU HAVE TO ENTER
 
-**1. Students' name** : Enter students' names seperated by comma and space(, ). 
-
+**1. Students' name** \
+: Enter students' names seperated by comma and space(, ). 
 (ex - 유재석, 하하, 박명수, 정형돈, 노홍철, 정준하) \
 you will be irritated because there are so many students, but Once you write them in your notepad you can use it continuelly. After entering them, please press enter.
 
-**2. Day of week** 
+**2. Day of week** \
 : If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
 
-**3. Google class room url** : Enter url of class that starts with http.
+**3. Google class room url** \
+: Enter url of class that starts with http.
 
-**4. Kyunghee univ web mail** : Format of ****@khu.ac.kr
+**4. Kyunghee univ web mail** \
+: ****@khu.ac.kr
 
 **5. Kyunghee univ web mail id**
 
-**6. Kyunghee univ password** 
-
+**6. Kyunghee univ password** \
 : Don't worry for your id or password to be devulged. Even I don't know who use this program and what you entered as information!
 
-**7. Alsolute Path(Where your final excel file stored)**
-
+**7. Alsolute Path(Where your final excel file stored)** \
 : How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter " C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
 
 ## CAUTION
 
-**1. you have to recheck students who were absent!**
-
+**1. you have to recheck students who were absent!** \
 (It is really mandatory!) There are comments algorithm can't catch!!!!
 Use CTRL + F to recheck absent students!!
 
-**2. This program can't check for People with same name!**
-
+**2. This program can't check for People with same name!** \
 If your class have People with same name, Use CTRL + F to check them!
 
 ## PURPOSE OF THIS PROGRAM
