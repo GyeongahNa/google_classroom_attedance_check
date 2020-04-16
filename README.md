@@ -1,6 +1,6 @@
-# Google_classroom_attedance_check Program 
+## GOOGLE_CLASSROOM_ATTENDANCE_COMMENTS_CHECK PROGRAM
 
-## Program introduction
+### PROGRAM INTRODUCTION
 
 Download and Use google classroom attendance check program. \
 It checks students' comments automatically and gives you excel file.
@@ -10,7 +10,7 @@ It checks students' comments automatically and gives you excel file.
 You can check whether a student attended or was absent with a excel file created after execution of this program.\
 Attendace in that day is expressed as "O", Lateness is expressed as "(Real_date)" format and Absent is expressed as ".".
 
-## How to use 
+### HOW TO USE
 
 
 **0. Access to your classroom page.** 
@@ -48,14 +48,14 @@ Execute "googleclassroom_attendance_check file" in dist file". Then you will be 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/60082435/79435812-15629800-800b-11ea-8409-7cc7643ef93e.PNG">
 
 
-## Informations you have to enter
+### Informations you have to enter
 
-**1. Students' name(학생 명단)** : Enter students' names seperated by comma and space(, ). 
+**1. Students' name** : Enter students' names seperated by comma and space(, ). 
 
 (ex - 유재석, 하하, 박명수, 정형돈, 노홍철, 정준하) \
 you will be irritated because there are so many students, but Once you write them in your notepad you can use it continuelly. After entering them, please press enter.
 
-**2. Day of week(요일)** : If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
+**2. Day of week** : If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
 
 **3. Google class room url** : Enter url of class that starts with http.
 
@@ -69,14 +69,14 @@ you will be irritated because there are so many students, but Once you write the
 
 : How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter " C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
 
-## CAUTION 
+### CAUTION
 
 1. you have to recheck students who were absent! (It is really mandatory!) There are comments algorithm can't catch!!!!
 Use CTRL + F to recheck absent students!!
 
 2. This program can't check for People with same name! If your class have People with same name, Use CTRL + F to check them!
 
-## Purpose to make this program
+## PURPOSE OF THIS PROGRAM
 
 Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of classes.
-The purpose to make this program is to help timeless TAs and professors. I hope I can't help as many people as possible who suffer from checking all comments in google classroom. 
+The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom. 
