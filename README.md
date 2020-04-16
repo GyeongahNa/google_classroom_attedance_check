@@ -70,7 +70,7 @@ you will be irritated because there are so many students, but Once you write the
 : Don't worry for your id or password to be devulged. Even I don't know who use this program and what information you entered.
 
 **7. Alsolute Path(Where your final excel file stored)** \
-: How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter " C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
+: How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter "C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
 
 ## CAUTION
 
