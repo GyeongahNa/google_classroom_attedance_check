@@ -37,13 +37,13 @@ You can check it with [click dots at the top-right of the screen] - [도움말] 
 
 **3. Copy chromedriver and Paste it at dist folder.**
 
-Move to a forlder that you downloaded and located at your desktop. At chromedriver folder, there would be folders named "chrome 81, chrome 80, chrome 79". Enter the chrome XX folder coressponding to your chrome version. f your chrome version is 80, you have to enter chrome 80 folder. Then, You will be able to find chromedriver file. Copy it and paste to dist folder in parent-folder.
+Move to a forlder that you downloaded and located at your desktop. At chromedriver folder, there would be folders named "chrome 81, chrome 80, chrome 79". Enter the chrome XX folder coressponding to your chrome version. If your chrome version is 80, you have to enter chrome 80 folder. Then, You will be able to find chromedriver file. Copy it and paste to dist folder in parent-folder.
 
 <img width="960" alt="3" src="https://user-images.githubusercontent.com/60082435/79434134-e5b29080-8008-11ea-8872-d4bba63c9561.PNG">
 
 **4. Execute googleclassroom_attendance_check file.**
 
-Execute "googleclassroom_attendance_check file" in dist file". Then you will be able to see black screen on your computer. Don't panic! Now you are ready to use automatic check program.
+Execute "googleclassroom_attendance_check file" in dist file. Then you will be able to see black screen on your computer. Don't panic! Now you are ready to use automatic check program.
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/60082435/79435812-15629800-800b-11ea-8409-7cc7643ef93e.PNG">
 
@@ -67,7 +67,7 @@ you will be irritated because there are so many students, but Once you write the
 **5. Kyunghee univ web mail id**
 
 **6. Kyunghee univ password** \
-: Don't worry for your id or password to be devulged. Even I don't know who use this program and what you entered as information!
+: Don't worry for your id or password to be devulged. Even I don't know who use this program and what information you entered.
 
 **7. Alsolute Path(Where your final excel file stored)** \
 : How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter " C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
