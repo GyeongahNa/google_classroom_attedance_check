@@ -7,14 +7,33 @@ It checks students' comments automatically and gives you excel file.
 
 <img width="960" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">
 
-you can check whether a student attended or was absent with a excel file created after execution of this program.\
+You can check whether a student attended or was absent with a excel file created after execution of this program.\
 Attendace in that day is expressed as "O", Lateness is expressed as "(Real_date)" format and Absent is expressed as ".".
 
 ## How to use 
 
-0. Access to your classroom page. \
-when you access to your page, there would be posts you uploaded. Some posts would have attendance comments, ohers wouldn't because that is not for attendance but for annoucements or assignments. \
-You have to write a comment that contains which date the post intended to check for. For example, If a post was intended to check students' attendance for 3/25, you have to write "[3/25 강의]" as a comment on your post. If this post o check for several days, you have to write "[3/25 강의] [3/30 강의] [4/1 강의]".
+**0. Access to your classroom page.** 
+
+When you access to your page, there would be posts you uploaded. Some posts would have attendance comments, ohers wouldn't because that is not for attendance but for annoucements or assignments. \
+You have to write a comment that contains which date the post intended to check for. For example, If a post was created to check students' attendance for 3/25, you have to write "[3/25 강의]" as a comment on your post. If this post was designed to check for several days, you have to write "[3/25 강의] [3/30 강의] [4/1 강의]".
+
+<img width="951" alt="0" src="https://user-images.githubusercontent.com/60082435/79429983-36bf8600-8003-11ea-8795-93b8014a15a6.PNG">
+
+**1. Download google_classroom_attendance_check file and locate it at your Desktop.**
+
+Access to here ↓ and click green button to download files. [Clone or Download] - [Download Zip] - unzip files at Desktop.
+```
+https://github.com/GyeongahNa/google_classroom_attedance_check
+```
+**2. Check your chrome version.**
+
+
+
+
+
+
+
+
 
 
 
