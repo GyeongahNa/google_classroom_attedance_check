@@ -7,7 +7,7 @@ It checks students' comments automatically and gives you excel file.
 
 <img width="960" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">
 
-You can check whether a student attended or was absent with a excel file created after execution of this program.\
+You can check whether a student attended or was absent with a excel file created after an execution of this program.\
 Attendace in that day is expressed as "O", Lateness is expressed as "(Real_date)" format and Absent is expressed as ".".
 
 ## HOW TO USE
