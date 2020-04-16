@@ -50,57 +50,33 @@ Execute "googleclassroom_attendance_check file" in dist file". Then you will be 
 
 ## Informations you have to enter
 
-1.tudents' name(학생 명단) : Enter students' names seperated by comma and space(, ). (ex - 유재석, 하하, 박명수, 정형돈, 노홍철, 정준하)
+**1. Students' name(학생 명단)** : Enter students' names seperated by comma and space(, ). 
 
-(2)
+(ex - 유재석, 하하, 박명수, 정형돈, 노홍철, 정준하) \
+you will be irritated because there are so many students, but Once you write them in your notepad you can use it continuelly. After entering them, please press enter.
 
+**2. Day of week(요일)** : If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
 
+**3. Google class room url** : Enter url of class that starts with http.
 
+**4. Kyunghee univ web mail** : Format of ****@khu.ac.kr
 
+**5. Kyunghee univ web mail id**
 
+**6. Kyunghee univ password** : Don't worry for your id or password to be devulged. Even I don't know who use this program and what you entered as information!
 
+**7. Alsolute Path(Where your final excel file stored)**
 
-7. 프로그램 실행시 입력해야 하는 정보들
-(1) 학생 명단 : 수업을 듣는 학생들의 이름을 컴마와 스페이스(, )로 구분하여 입력해 주세요.
-(유재석, 박명수, 정준하, 노홍철, 정형돈, 하하) <- 이런식으로 컴마와 스페이스로 정확히 구분되어야 합니다. 
- 이렇게 다 입력하시는게 귀찮으시겠지만, 메모장에 한번 정리해 두시면 계속해서 쓰시기 편하실 것입니다. 
-다 입력한 뒤에는 엔터를 쳐주세요!
+: How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter " C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
 
-(2) 수업이 진행되는 요일 : 강의가 월수에 진행된다면 월/수, 화목에 진행된다면 화/목, 금요일에 진행된다면 금 이라고 입력해주시면 됩니다.
+## CAUTION 
 
-(3) 구글클래스룸 강의 메인페이지의 url : 구글 클래스룸 강의 페이지의 주소(url)을 입력해 주시면 됩니다. (http로 시작하는 주소입니다.)
+1. you have to recheck students who were absent! (It is really mandatory!) There are comments algorithm can't catch!!!!
+Use CTRL + F to recheck absent students!!
 
-(4) 구글 email 주소(학교 메일) : ****@khu.ac.kr 형식의 이메일을 입력해주시면 됩니다.
+2. This program can't check for People with same name! If your class have People with same name, Use CTRL + F to check them!
 
-(5) 경희대학교 웹메일 아이디 : 경희대학교 웹메일에 로그인하는 아이디를 입력해 주시면 됩니다.
+## Purpose to make this program
 
-(6) 경희대학교 웹메일 패스워드 : 경희대학교 웹메일에 로그인하는 패스워드를 입력해주시면 됩니다.
-패스워드는 키보드로 입력해도 화면에 보이지 않으니, 신경쓰지 마시고 입력해주신 뒤 엔터를 치시면 됩니다.
-
-(7) 정리된 엑셀 파일이 저장될 절대경로 : 최종적으로 출석체크 결과가 정리될 엑셀이 저장될 위치를 절대경로로 적어주시면 됩니다. 
-
-[프로그램 이용시 주의 사항]
-
-1. 해당 프로그램은 다음과 같은 방식으로 출석체크를 하고 있습니다.
-
-(1) 학생이 (3/25, 4/1 나경아 출석합니다.) 라고 댓글을 단 경우
-: 학생이 3/25, 4/1일에 대한 출석체크를 원하는 것으로 간주하여 3/25, 4/1일에 출석을 한것으로 표시됩니다. 
-이때 실제 댓글을 단 날짜와 학생이 출석을 원한 날짜가 일치하는 경우 O, 일치하지 않는 경우에는 실제 댓글을 단 날짜를 표기하도록 하였습니다.
-
-(2) 학생이 (나경아 출석합니다.) 와 같이 어떠한 날짜에 대한 출석을 의도했는지 명확히 적어주지 않은 경우 
-
-: 만일 해당 글이 하루에 대한 출석체크(예를 들어 3/25에 대한 출석체크)를 담당하는 글이라면, 해당 날짜에 출석을 한 것으로 간주하고 출석체크를 해야 하는 날짜와 실제 체크한 날짜가 같다면 O, 다르다면 실제 출석 체크를 한 날짜를 표기하도록 하였습니다.
-
-: 만일 해당 글이 여러 날에 대한 출석체크(에를 들어 [3/25 강의] [4/1 강의]로 표시)를 담당하는 글이라면, 학생이 실제 댓글을 단 날짜를 보고 해당 날짜에 대한 출석 체크가 이루어질 수 있도록 하였습니다.
-
-따라서, 해당 알고리즘에 대응하지 않는 댓글은 누락되었을 수 있습니다. 결석을 한 사람이 있다면, 반드시 구글클래스룸 강의의 댓글 창을 열고 CTRL + F(찾기) 기능을 이용하여 해당 학생의 댓글이 누락되었는지 확인해주셔야 합니다.
-
-2. 동명이인은 출석체크가 올바르게 처리되지 않습니다.
-
-해당 클래스에 동명이인인 학생이 있다면 반드시 CTRL +F(찾기) 기능을 통해 따로 출석체크 해주시길 바랍니다.
-
-3.  엑셀 파일을 더 쉽게 보기 위해서는 첫행 고정으로 날짜를 고정하여 사용하시면 편리합니다. 엑셀 : 보기 -> 틀 고정 -> 첫행 고정으로 고정하시면 됩니다.
-
-교수님과 조교님들의 귀한 시간을 아끼는 데 도움이 되었으면 합니다.
-감사합니다.
-첨부파일 영역
+Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of classes.
+The purpose to make this program is to help timeless TAs and professors. I hope I can't help as many people as possible who suffer from checking all comments in google classroom. 
