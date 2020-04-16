@@ -48,7 +48,7 @@ Execute "googleclassroom_attendance_check file" in dist file". Then you will be 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/60082435/79435812-15629800-800b-11ea-8409-7cc7643ef93e.PNG">
 
 
-### Informations you have to enter
+### INFORMATIONS YOU HAVE TO ENTER
 
 **1. Students' name** : Enter students' names seperated by comma and space(, ). 
 
@@ -76,7 +76,7 @@ Use CTRL + F to recheck absent students!!
 
 2. This program can't check for People with same name! If your class have People with same name, Use CTRL + F to check them!
 
-## PURPOSE OF THIS PROGRAM
+### PURPOSE OF THIS PROGRAM
 
 Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of classes.
 The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom. 
