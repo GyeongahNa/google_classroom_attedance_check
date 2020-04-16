@@ -43,7 +43,7 @@ Move to a forlder that you downloaded and located at your desktop. At chromedriv
 
 **4. Execute googleclassroom_attendance_check file.**
 
-Execute "googleclassroom_attendance_check file" in dist f. Then you will be able to see black screen on your computer. Don't panic! Now you are ready to use automatic check program.
+Execute "googleclassroom_attendance_check file" in dist folder. Then you will be able to see black screen on your computer. Don't panic! Now you are ready to use automatic check program.
 
 <img width="960" alt="4" src="https://user-images.githubusercontent.com/60082435/79435812-15629800-800b-11ea-8409-7cc7643ef93e.PNG">
 
