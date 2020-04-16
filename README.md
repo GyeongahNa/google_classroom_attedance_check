@@ -32,7 +32,7 @@ https://github.com/GyeongahNa/google_classroom_attedance_check
 **2. Check your chrome version.**
 
 Open a chrome page and check your chrome version. \
-ou can check it with [click dots at the top-right of the screen] - [도움말] - [Chrome 정보]. For example, if your chrome version is expressed as  "80.0.3987.163", that is chrome 80.
+You can check it with [click dots at the top-right of the screen] - [도움말] - [Chrome 정보]. For example, if your chrome version is expressed as  "80.0.3987.163", that is chrome 80.
 
 
 **3. Copy chromedriver and Paste it at dist folder.**
