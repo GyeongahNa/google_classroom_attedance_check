@@ -55,7 +55,8 @@ Execute "googleclassroom_attendance_check file" in dist file". Then you will be 
 (ex - 유재석, 하하, 박명수, 정형돈, 노홍철, 정준하) \
 you will be irritated because there are so many students, but Once you write them in your notepad you can use it continuelly. After entering them, please press enter.
 
-**2. Day of week** : If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
+**2. Day of week** 
+: If your class is progressed on Mon/Wed, Enter 월/수. If your class is progressed on Tue/Thu, Enter 화/목, You can enter 금 if your class is progressed on Friday.
 
 **3. Google class room url** : Enter url of class that starts with http.
 
@@ -63,7 +64,9 @@ you will be irritated because there are so many students, but Once you write the
 
 **5. Kyunghee univ web mail id**
 
-**6. Kyunghee univ password** : Don't worry for your id or password to be devulged. Even I don't know who use this program and what you entered as information!
+**6. Kyunghee univ password** 
+
+: Don't worry for your id or password to be devulged. Even I don't know who use this program and what you entered as information!
 
 **7. Alsolute Path(Where your final excel file stored)**
 
@@ -71,10 +74,14 @@ you will be irritated because there are so many students, but Once you write the
 
 ### CAUTION
 
-1. you have to recheck students who were absent! (It is really mandatory!) There are comments algorithm can't catch!!!!
+**1. you have to recheck students who were absent!**
+
+(It is really mandatory!) There are comments algorithm can't catch!!!!
 Use CTRL + F to recheck absent students!!
 
-2. This program can't check for People with same name! If your class have People with same name, Use CTRL + F to check them!
+**2. This program can't check for People with same name!**
+
+If your class have People with same name, Use CTRL + F to check them!
 
 ### PURPOSE OF THIS PROGRAM
 
