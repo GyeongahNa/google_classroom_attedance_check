@@ -10,7 +10,7 @@ Because of COVID-19, Most of Classes in our univ are using google classroom. Bec
 
 > How to use: [How_to_use.pdf](https://github.com/GyeongahNa/google_classroom_attedance_check/blob/master/How_to_use.pdf)
 
-You can check whether a student attended or was absent with a excel file created after an execution of this program.\
+You can check whether a student attended or was absent with a excel file created after an execution of this program.
 Attendace in that day is expressed as `O`, lateness is expressed as `(date)` format and absence is expressed as `.`.
 
 
