@@ -1,17 +1,31 @@
-## GOOGLE_CLASSROOM_ATTENDANCE_COMMENTS_CHECK PROGRAM
+## Google-classroom-attendance-check
 
-### PROGRAM INTRODUCTION
 
-Download and Use google classroom attendance check program. \
-It checks students' comments automatically and gives you excel file.
+### Introduction
+Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of comments in posts. This google-classroom-attendance-check program checks the students' comments automatically and gives you the excel file. The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom.<br><br>
 
-<img width="960" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">
+<img width="800" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">|
 
-You can check whether a student attended or was absent with a excel file created after an execution of this program.\
-Attendace in that day is expressed as "O", Lateness is expressed as "(Real_date)" format and Absent is expressed as ".".
+### Details
+
+> How to use: [How_to_use.pdf]()
+
+> You can check whether a student attended or was absent with a excel file created after an execution of this program.\
+> Attendace in that day is expressed as `O`, lateness is expressed as `(date)` format and absence is expressed as `.`.
+
+
+### Caution
+
+* [ ] You have to recheck students who were absent or with the same name.
+* [ ] If you encounter any errors, please contact `luckyrookie@Khu.ac.kr`.
+
+
+
+
+
+
 
 ### HOW TO USE
-
 
 **0. Access to your classroom page.** 
 
@@ -72,20 +86,5 @@ you will be irritated because there are so many students, but Once you write the
 **7. Alsolute Path(Where your final excel file stored)** \
 : How to see your absolute path of your desktop : [Open file explorer(파일 탐색기)] - [내 PC] - [로컬 C] - [사용자/User] - [your name] - [바탕화면/Desktop] - [Click address at the top]. For example, If your desktop address is C:\Users\나경아\Desktop, you can enter "C:\Users\나경아\Desktop\class_name.xlsx" to store your final file on your desktop.
 
-### CAUTION
 
-**1. you have to recheck students who were absent!** \
-(It is really mandatory!) There are comments algorithm can't catch!!!!
-Use CTRL + F to recheck absent students!!
 
-**2. This program can't check for People with same name!** \
-If your class have People with same name, Use CTRL + F to check them!
-
-### PURPOSE OF THIS PROGRAM
-
-Because of COVID-19, Most of Classes in our univ are using google classroom. Because there isn't enough ways to check students' attendance on online, students are writting comments and operators of classes have to check a lot of classes.
-The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom. 
-
-### ERROR!
-
-If you encounter any errors, please contact "luckyrookie@Khu.ac.kr". I can help you whenever you want:)
