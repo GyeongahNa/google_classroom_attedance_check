@@ -4,7 +4,7 @@
 ### Introduction
 Because of COVID-19, Most of classes in our univ are using google classroom. Because there isn't enough way to check students' attendance on online, students are writting comments and operators of classes have to check a lot of comments in posts. This google-classroom-attendance-check program checks the students' comments automatically and gives you the excel file. The purpose to make this program is to help timeless TAs and professors. I hope this program helps as many people as possible who suffer from checking all comments in google classroom.<br><br>
 
-<img width="800" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">|
+<img width="800" alt="example" src="https://user-images.githubusercontent.com/60082435/79423965-733ab400-7ffa-11ea-88f9-f2777b0106a8.PNG">
 
 ### Details
 
